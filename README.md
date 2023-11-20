@@ -28,6 +28,7 @@ The GitHub action will automatically build the ASIC files using [OpenLane](https
 - [Digital design lessons](https://tinytapeout.com/digital_design/)
 - [Learn how semiconductors work](https://tinytapeout.com/siliwiz/)
 - [Join the community](https://discord.gg/rPK2nSjxy8)
+- [Build your design locally](https://docs.google.com/document/d/1aUUZ1jthRpg4QURIIyzlOaPWlmQzr-jBn3wZipVUPt4)
 
 ## What next?
 
